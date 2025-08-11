@@ -10,9 +10,9 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'SSO ID Guide'
-copyright = '2025, SSO ID'
-author = 'Shivam'
+project = 'Zengo Customer Help'
+copyright = '2025, Zengo Wallet'
+author = 'Mike'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
@@ -20,7 +20,7 @@ release = '1.0.0'
 # -- HTML output settings ----------------------------------------------------
 
 # SEO Title for browser tab and HTML pages
-html_title = "SSO ID - Login, Registration - Rajasthan SSO Portal Guide"
+html_title = "Get Official List of Zengo Customer Support 2025"
 
 
 # Optional short title for nav bar
